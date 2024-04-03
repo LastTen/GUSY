@@ -1,0 +1,10 @@
+# requirements.txt
+
+autopep8==2.0.4
+distlib==0.3.8
+filelock==3.13.3
+platformdirs==4.2.0
+pycodestyle==2.11.1
+pygame==2.5.2
+python-dotenv==1.0.1
+virtualenv==20.25.1
